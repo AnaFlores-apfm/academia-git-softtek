@@ -1,0 +1,6 @@
+*.env
+application.yml
+/dist
+/node_modules
+nuevono.txt
+
