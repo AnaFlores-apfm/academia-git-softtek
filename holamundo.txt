@@ -1,5 +1,9 @@
 Hola mundo 
 Nueva linea actualizar clone
 Una nueva linea para prueba desde mi rama develop
+<<<<<<< HEAD
 nueva linea cambio
 nueva linea cambio dev con commit y eliminar rama
+=======
+cambio tras stash
+>>>>>>> newdetached
